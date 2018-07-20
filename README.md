@@ -1,5 +1,5 @@
 # Iterative Deep Retinal Topology Extraction
 
-Published MICCAI PatchMI workshop 2018.
+Published at MICCAI PatchMI workshop 2018.
 
 Code will be available shortly.
